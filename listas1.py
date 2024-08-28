@@ -65,8 +65,8 @@ print(frutas)
 
 
 
-subir = "Actualizar a github otra vez."
-subir = "Actualizar a github otra vez."
+subir
+
 
 
 
